@@ -108,4 +108,3 @@ module.exports.handler = async function(event) {
     });
   }
 };
-
